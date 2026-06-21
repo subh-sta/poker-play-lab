@@ -1,2 +1,14 @@
 # poker-play-lab
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
